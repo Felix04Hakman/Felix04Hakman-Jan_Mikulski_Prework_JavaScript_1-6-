@@ -16,7 +16,7 @@
     "rewire": "^5.0.0"
   },
   "dependencies": {
-    "console-testing-library": "^0.3.1",
+    "console-testing-library": "^0.6.0",
     "espree": "^7.3.0",
     "esprima": "^4.0.1",
     "lodash": "^4.17.20",

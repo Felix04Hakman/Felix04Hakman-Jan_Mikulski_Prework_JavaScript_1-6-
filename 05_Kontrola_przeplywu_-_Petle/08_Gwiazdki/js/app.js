@@ -1,6 +1,11 @@
 const n = 5;
 
-/**
- * Write your code below!
- */
+let stars = "";
+for(let i = 0; i < n; i ++) {
+    for(let j = 0; j <= i; j++) {
+        stars += "*";
+    }
+    console.log(stars);
+    stars = "";
+}
 

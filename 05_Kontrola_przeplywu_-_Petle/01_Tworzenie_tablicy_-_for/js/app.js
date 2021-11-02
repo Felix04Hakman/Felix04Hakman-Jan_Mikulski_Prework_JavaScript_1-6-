@@ -1,7 +1,7 @@
-const numbers = [];
+
 const n = 12;
+let numbers = [];
 
-/**
- * Write your code below!
- */
-
+for (let i = 0; i <= numbers.length; i++ ){
+numbers.push(numbers[n]);
+}
